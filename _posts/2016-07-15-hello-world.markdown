@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-07-15 10:45:18 -0400
-categories: first post
+date:   2016-07-15 11:21:58 -0400
 ---
-First post what whaaaaat.
+Herp.
