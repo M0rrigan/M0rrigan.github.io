@@ -17,11 +17,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: #ba4806;
+    color: $header-color;
 
     &,
     &:visited {
-        color: #ba4806;
+        color: $header-color;
     }
 }
 
@@ -34,7 +34,7 @@
     }
 
     .page-link {
-        color: #cf8d13;
+        color: lighten($header-color, 10%);
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -116,7 +116,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $link-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
