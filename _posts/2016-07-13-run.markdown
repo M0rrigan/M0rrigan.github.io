@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "C25K Week 1, Day 2"
+date:   2016-07-13 11:18:58 -0400
+categories: fitness
+---
+5 minute warm up walk
+Alternate 1 minute run, 1:30 walk for 20 minutes
+5 minute cooldown walk
+
+Time: 31:40
+Distance: 2.07
+Calories: 147
+Weather: 88 degrees, sunny
+Felt: Okay
+
+This run left me pretty exhausted, probably because of the weather. It was harsh out there.

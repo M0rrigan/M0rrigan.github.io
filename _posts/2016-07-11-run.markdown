@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "C25K Week 1, Day 1"
+date:   2016-07-11 11:18:58 -0400
+categories: fitness
+---
+I've decided to start posting my activity on my blog. It holds me accountable physically, and gives me something to post here, which is good motivation to get it looking better.
+
+C25K is an app I downloaded a while back. It's supposed to get you from not being a runner at all to being able to run a 5k.
+
+5 minute warm up walk
+Alternate 1 minute run, 1:30 walk for 20 minutes
+5 minute cooldown walk
+
+Time: ~30 minutes
+Distance: ~2 miles
+Calories:
+Weather: High 60s, cloudy
+Felt: Great
