@@ -17,11 +17,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: $header-color;
+    color: $green;
 
     &,
     &:visited {
-        color: $header-color;
+        color: $green;
     }
 }
 
@@ -34,7 +34,7 @@
     }
 
     .page-link {
-        color: lighten($header-color, 10%);
+        color: lighten($green, 10%);
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -112,11 +112,12 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    color: $black;
 }
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $link-color;
+    color: lighten($green, 15%);
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -130,16 +131,19 @@
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
+    text-align: left;
 }
 
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
+    text-align: center;
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+    text-align: right;
 }
 
 @include media-query($on-laptop) {
@@ -169,10 +173,10 @@
  * Page content
  */
 .page-content {
-    // width: 80%;
     padding: $spacing-unit 0;
 
     .wrapper {
+      max-width: 500px;
       background: rgba($black, 0.2);
       border-radius: 10px;
       padding-top: 10px;
@@ -200,10 +204,10 @@
 .post-link {
     display: block;
     font-size: 24px;
-    color: $post-color;
+    color: $white;
 
     &:visited {
-        color: lighten($post-color, 10%);
+        color: darken($white, 10%);
     }
 
 }

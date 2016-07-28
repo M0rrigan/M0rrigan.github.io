@@ -96,15 +96,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $link-color;
+    color: $white;
     text-decoration: none;
 
     &:visited {
-        color: darken($link-color, 10%);
+        color: darken($white, 10%);
     }
 
     &:hover {
-        color: $text-color;
+        color: darken($white, 10%);
         text-decoration: underline;
     }
 }
@@ -205,7 +205,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $black;
         }
     }
 }
