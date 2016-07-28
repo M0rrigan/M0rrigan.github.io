@@ -171,6 +171,12 @@
 .page-content {
     // width: 80%;
     padding: $spacing-unit 0;
+
+    .wrapper {
+      background: rgba($black, 0.2);
+      border-radius: 10px;
+      padding-top: 10px;
+    }
 }
 
 .page-heading {
@@ -188,7 +194,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $white;
 }
 
 .post-link {
