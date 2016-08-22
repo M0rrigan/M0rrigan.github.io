@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "MIT OCW: Intro to CS and Programming"
+date:   2016-08-22 19:18:58 -0400
+categories: computer science, programming, mit ocw
+---
+There really isn't enough time in a day to learn everything I want to know, but that's no reason to not learn as much as I can!
+
+The bootcamp I attended was fantastic and I learned so much, though I really want an understanding of CS like I would have learned in college. In order to obtain that, I'm going to start working through MIT's Open CourseWare. The first course I'll be tackling is Introduction to Computer Science and programming, naturally. I know a decent amount of programming at this point, so what I'm really after are the theories. However, the exposure to Python will be exciting.
+
+Want to check it out? [Here!](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
